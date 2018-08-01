@@ -1,5 +1,5 @@
 # wx-qqface
-提供对qq表情、字符表情、html图片标签的互转。表情资源[请见](https://github.com/uojo/wx-qqface/resources)
+提供对qq表情、字符表情、html图片标签的互转。表情资源[请见](https://github.com/uojo/wx-qqface/tree/master/resources)
 
 ## Install
 To install from npm:
