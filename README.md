@@ -50,5 +50,7 @@ char [string]
 
 
 ## ChangeLog
+### 0.2.0
+- 添加 emoji.css 资源
 ### 0.1.0
-- 第一版本。
+- 初始版本
